@@ -1,4 +1,4 @@
-# battleship
+# Battleship
 battleship game
 The program has 3 classes
 * Ship: models the ship
